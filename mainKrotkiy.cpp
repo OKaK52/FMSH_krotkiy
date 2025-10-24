@@ -19,6 +19,4 @@ int main() {
 
     string decrypted = decrypt(encrypted, key);
     cout << "Decrypted: " << decrypted << endl;
-
-    return 0;
 }
